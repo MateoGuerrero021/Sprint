@@ -1,0 +1,26 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Producto 1",
+      "imagen": "img/tarjeta1.jpeg",
+      "precio": 328
+    },
+    {
+      "id": "2",
+      "nombre": "Producto 2",
+      "imagen": "img/tarjeta2.jpeg",
+      "precio": 714
+    },
+    {
+      "id": "3",
+      "nombre": "Producto 3",
+      "imagen": "img/tarjeta3.jpeg",
+      "precio": 700
+    }
+  ],
+  "carrito": {
+    "Producto 2": 1,
+    "Producto 3": 1
+  }
+}
